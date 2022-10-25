@@ -1,0 +1,19 @@
+{
+  "name": "@dennysaj/is_form_valid",
+  "version": "1.2.0",
+  "description": "An npm package to validate your forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennys27/is_form_valid.git"
+  },
+  "author": "dennys aj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennys27/is_form_valid/issues"
+  },
+  "homepage": "https://github.com/dennys27/is_form_valid#readme"
+}
