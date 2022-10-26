@@ -8,10 +8,10 @@ neo-form-validations is built to make your clientside form validations much easi
 
 ## Installation
 
-if you're using npm
+if you're using npm :: 
 npm install neo-form-validations
 
-if you're using yarn
+if you're using yarn ::
 yarn add neo-form-validations
 
 
