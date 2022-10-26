@@ -1,6 +1,6 @@
 {
-  "name": "@dennysaj/is_form_valid",
-  "version": "1.4.0",
+  "name": "neo-form-validations",
+  "version": "1.1.4",
   "description": "An npm package to validate your forms",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dennys27/is_form_valid.git"
+    "url": "https://github.com/dennys27/Neo-from-validation"
   },
   "author": "dennys aj",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dennys27/is_form_valid/issues"
+    "url": "https://github.com/dennys27/Neo-from-validation/issues"
   },
-  "homepage": "https://github.com/dennys27/is_form_valid#readme"
+  "homepage": "https://github.com/dennys27/Neo-from-validation#readme"
 }
