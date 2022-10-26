@@ -61,7 +61,7 @@ validate.isPassword(password)
 eg:
 
   {
-    status: "true", " message:"Password must be 10-16 Characters Long. "
+    status: "false", " message:"Password must be 10-16 Characters Long. "
     
   }
 
