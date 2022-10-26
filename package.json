@@ -1,7 +1,13 @@
 {
   "name": "neo-form-validations",
-  "version": "1.1.4",
+  "version": "1.1.6",
   "description": "An npm package to validate your forms",
+  "keywords": [
+        "form validation", 
+        "react form validation",
+        "form",
+        "simple from validation"
+    ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

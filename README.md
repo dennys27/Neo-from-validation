@@ -1,4 +1,4 @@
-# [Neo-form-validations](https://github.com/dennys27/Neo-from-validation) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/neo-form-validations) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://www.npmjs.com/package/neo-form-validations)
+# [neo-form-validations](https://github.com/dennys27/Neo-from-validation) &middot; [![npm version](https://img.shields.io/npm/v/react.svg?style=flat)](https://www.npmjs.com/package/neo-form-validations) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://www.npmjs.com/package/neo-form-validations)
 
 neo-form-validations is built to make your clientside form validations much easier.
 
